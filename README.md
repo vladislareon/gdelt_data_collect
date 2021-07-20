@@ -1,1 +1,1 @@
-# gdelt_data_collect
+# Сбор данных мз базы GDELT
